@@ -1,0 +1,3 @@
+gallery/
+*.svg
+__pycache__/
